@@ -1,0 +1,123 @@
+ .judul {
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+    border: 3px solid;
+    border-radius: 10px;
+    
+    
+       
+}
+
+.row {
+    margin-top: 50px;
+    margin-left:  100px; 
+    margin-right: 100px;
+    border-radius: 10px;
+}
+
+/* .tabel {
+    color: #252B48;
+    text-align: center;
+    margin-left:  100px; 
+    margin-right: 100px;
+    border: 3px solid #6874b0;
+    border-radius: 10px;
+    font-family: monospace;
+    margin-top: 30px;
+} */
+
+/* label {
+    display: flex;
+    justify-content: start;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    padding: 5px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    
+} */
+
+.alert{
+    margin-top: 30px;
+}
+
+
+/* input {
+    padding: 10px;
+    border: 2px solid black  ;
+    display: flex;
+    justify-content: start;
+    border-radius: 10px;
+    font-size: 20px;
+    outline: none;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-right: 100px;
+    margin-left: 10px;
+    padding: 5px;
+    
+    
+} */
+
+.datadiri{
+    font-weight: bold;
+    text-align: left;
+    margin-top: 50px;
+    margin-right: 50px;
+    position: fixed;
+    width: 200px;
+    
+}
+
+.tabel1{
+    border: 1px solid;
+  }
+
+
+
+
+
+.tdk {
+    display: flex;
+    justify-content: center;
+    margin-left: 30px;
+    font-size: large;
+    font-weight: bold;
+}
+
+button {
+    border-radius: 8px;
+    
+    
+}
+
+/* .btn{
+    display: flex;
+    margin-left: 30px;
+    justify-content: end;
+    margin-right: 20px;
+} */
+
+button:hover {
+    background-color: gray;
+    color: white;
+} 
+
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    
+  }
+
+.tks {
+    text-align: center;
+    font-weight: bold;
+}
+
+
